@@ -1,0 +1,128 @@
+header{
+    height: 70px;
+    background-color: #334d00;
+    padding: 16px;
+}
+
+header a{
+    
+}
+
+h1,h2{
+    color: #fff;
+}
+
+.man0{
+    float: left;
+}
+
+.man1{
+    float: right;
+    
+}
+
+.man2{
+    display: inline;
+    text-decoration: none;
+    color: #fff;
+}
+
+header nav ul lu {
+    margin-right: 15px
+}
+
+
+/*===============Hero section===================*/
+#hero {
+    background-image: url('../img/nebula.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+.title-style {
+    margin: 0;
+    text-align: center;
+    margin-top: 16%;
+    margin-left: 30%;
+    position: absolute;
+}
+
+a {
+    text-decoration: none;
+}
+ul {list-style: none;
+}
+
+/*=============Aside Section==============*/
+.white-text {
+    color: #fff;
+}
+
+.active{
+    border-radius: 50%;
+    background-color: #fff;
+    padding: 10px;
+}
+
+.centered:{
+    text-align: center;
+}
+
+aside {
+    float: left;
+    width: 20%;
+    background-color: #000;
+    height: 350px;
+    border: 2px solid #00f400;
+}
+
+#blog-link {
+    padding-left: 0;
+}
+
+.blog-link:hover a, .blog-link:hover {
+    background-color: #eeee77;
+    color: #000;
+}
+
+.blog-links {
+    margin: 5px 0px;
+    padding: 10px 0px;
+}
+
+aside a {
+    color: #fff;
+}
+
+
+
+/*=============Main Section=================*/
+#main-heading {
+    font-weight: 800;
+    color: #000;
+}
+
+main{
+    float: right;
+    width: 69.5%;
+    height: 350px;
+}
+
+/*=============Footer Section=================*/
+footer {
+    height: 95px;
+    background-color: #6678ff;
+    clear: both;
+}
+
+.fa {
+    magrgin-left: 8px;
+}
+
+footer #social-media a {
+    color: #000;
+}
+
+footer #social-media a:hover{
+    
+}
